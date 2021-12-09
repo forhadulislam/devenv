@@ -17,4 +17,4 @@ This repo contains all of the mandatory scripts which I use to startup a Develop
 
 
 
-** Do not use it in any production environment
+* Do not use it in any production environment
