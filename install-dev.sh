@@ -43,7 +43,6 @@ git --version
 go version
 go env
 code --version
-java -version
 cat /etc/environment
 cat ~/.gitconfig
 
